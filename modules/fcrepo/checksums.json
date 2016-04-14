@@ -1,0 +1,19 @@
+{
+  "CHANGELOG.md": "1d60800b8f54893dab83c21420cdc495",
+  "DEVELOPERS.md": "8ceccccab53c3725fd9c6d4b9cb6f8fd",
+  "Gemfile": "35ca916fdda7363a2e9de70f08d2f595",
+  "LICENSE": "86d3f3a95c324c9479bd8986968f4327",
+  "README.md": "e539c571c7077df5535c831a1f7c357d",
+  "Rakefile": "5ac0b611b58509cc2729229ca7c0fc8c",
+  "TODO.md": "537e04b87302e5d7e9887a6bf6a0d42b",
+  "manifests/config.pp": "91b8edc08e873f401f83f61a9dbcf685",
+  "manifests/init.pp": "2275cc8f590a713362d8b7e354699d55",
+  "manifests/install.pp": "accbb61cec45748f6882cdb24ee3d235",
+  "manifests/params.pp": "3f7b81382ddf2b2a479bd9db8353a4b8",
+  "manifests/service.pp": "eee754baf1505f330dfa891d6d813de3",
+  "metadata.json": "8b02c014c599f2291cb35c78538ebd4e",
+  "spec/classes/fcrepo_spec.rb": "0018b08a29dd73184c7b9448e7c5280e",
+  "spec/defines/service_spec.rb": "e2b996efd66f435731fba3b95af38c47",
+  "spec/spec_helper.rb": "29395f890e4d1b4fb13bbd1f0e2dbe9e",
+  "tests/init.pp": "0dfe96b634428684e1f446d08db9508b"
+}
